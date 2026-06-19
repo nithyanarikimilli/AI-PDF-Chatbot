@@ -129,12 +129,11 @@ http://localhost:8501
 
 ### Home Page
 
-Upload a PDF and start chatting with the document.
+![Home Page](screenshots/home.png)
 
-### Chat Interface
+### Chat Example
 
-Ask questions and receive AI-generated answers based on PDF content.
-
+![Chat Example](screenshots/chat.png)
 ---
 
 ## 🔄 Workflow
