@@ -4,6 +4,9 @@ An AI-powered PDF Question Answering application built using Gemini AI, LangChai
 
 Users can upload a PDF document and ask questions in natural language. The chatbot retrieves relevant content from the PDF and generates context-aware answers using Google's Gemini model.
 
+## Live Demo
+
+https://your-streamlit-app-url.streamlit.app
 ---
 
 ## 🚀 Features
@@ -134,10 +137,6 @@ http://localhost:8501
 ### Chat Example
 
 ![Chat Example](screenshots/chat.png)
-
-### Features
-
-![Features](screenshots/features.png)
 ---
 
 ## 🔄 Workflow
