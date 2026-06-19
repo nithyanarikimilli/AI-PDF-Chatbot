@@ -134,6 +134,10 @@ http://localhost:8501
 ### Chat Example
 
 ![Chat Example](screenshots/chat.png)
+
+### Features
+
+![Features](screenshots/features.png)
 ---
 
 ## 🔄 Workflow
